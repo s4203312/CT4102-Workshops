@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+C:\Users\s4203312\C++ Programming\GitHub\ct4102-retro-game-s4203312\Week3\Week3\Task2.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\s4203312\C++ Programming\GitHub\ct4102-retro-game-s4203312\Week3\Week3\Task2.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Week3.vcxproj -> C:\Users\s4203312\C++ Programming\GitHub\ct4102-retro-game-s4203312\Week3\x64\Debug\Week3.exe
