@@ -1,0 +1,7 @@
+﻿  MainSource.cpp
+N:\CT4102-Workshops\Week4\Week4\Week4\MainSource.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Task2.cpp
+N:\CT4102-Workshops\Week4\Week4\Week4\Task2.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task1.cpp
+  Generating Code...
+N:\CT4102-Workshops\Week4\Week4\Week4\Task1.cpp(25): error C4716: 'NumberGuess': must return a value
